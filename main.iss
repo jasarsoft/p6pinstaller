@@ -29,7 +29,7 @@
 #define PatchType "PES6 Standalone Patch"
 #define PatchYear "2015"
 #define PatchSeason "2014/2015"
-#define PatchAuthor "Patch TM"
+#define PatchAuthor "Patch™"
 #define PatchLanguage "English"
 
 #define PatchIcon "icon.ico"
